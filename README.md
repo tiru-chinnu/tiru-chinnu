@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on any full stack project 
 - 📫 How to reach me vikat0369@gmail.com
-- ⚡ Fun fact:lol
+- ⚡ Fun fact: Education 😂
 
 <!---
 tiru-chinnu/tiru-chinnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
